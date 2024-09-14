@@ -1,5 +1,4 @@
-- 👋 Hi, We're @EveLabOfficial, check us out on https://evelab.tech
-- 👀 We provide innovative software solutions and research into Blockchain & AI
+- 👋 Hi, We're @EveLabOfficial
 
 <!---
 EveLabOfficial/EveLabOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
